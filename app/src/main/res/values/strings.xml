@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">Journal App</string>
+  <string name="add_entry">Add a new entry</string>
+  <string name="record_entry">Record Your Journal Entry</string>
+  <string name="title_label">Title</string>
+  <string name="duration_label">Duration</string>
+  <string name="save_label">Save</string>
+  <string name="duration_hint">minutes</string>
+  <string name="info">Info</string>
+  <string name="ok">OK</string>
+  <string name="app_info">This app allows users to record their day to day activities. It uses the Room database and Architecture components.</string>
+  <string name="delete">Delete</string>
+  <string name="share">Share</string>
+</resources>
